@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+*.egg-info/
+
+# Data (raw CSVs can be large)
+data/raw/*.csv
+data/raw/*.zip
+data/processed/*.csv
+
+# Models (large binary files)
+models/saved/*.pkl
+models/saved/*.h5
+models/saved/*.keras
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# Outputs
+outputs/plots/*.png
+outputs/reports/*.html
+
+# IDE
+.vscode/
+.idea/
+*.DS_Store

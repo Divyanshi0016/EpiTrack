@@ -1,0 +1,31 @@
+/* EpiTrack custom styles — loaded by Streamlit via st.markdown */
+
+:root {
+  --accent: #00c896;
+  --bg: #050a0f;
+  --panel: #0d1b2a;
+  --text: #d0e8e0;
+  --text2: #7a9e90;
+}
+
+.stApp { background: var(--bg) !important; }
+
+.metric-card {
+  background: var(--panel);
+  border: 1px solid rgba(0,200,150,0.15);
+  border-radius: 10px;
+  padding: 16px 20px;
+}
+
+.risk-chip {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 12px;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+.risk-chip.high { background: rgba(255,77,109,0.15); color: #ff4d6d; }
+.risk-chip.med  { background: rgba(255,184,48,0.15);  color: #ffb830; }
+.risk-chip.low  { background: rgba(0,200,150,0.15);   color: #00c896; }
