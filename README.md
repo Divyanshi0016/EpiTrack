@@ -7,9 +7,9 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-Model-FF6600?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-LSTM-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-412991?style=for-the-badge&logo=openai&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-00c896?style=for-the-badge)
 
-**CodeCure Biohackathon · Track C · AI + Epidemiology**
+
+** Track C · AI + Epidemiology**
 
 *Predicting disease spread using machine learning, deep learning, classical epidemiological models, and an AI-powered chatbot assistant*
 
@@ -33,7 +33,7 @@
 - [Model Performance](#-model-performance)
 - [Deliverables](#-deliverables)
 - [Tech Stack](#-tech-stack)
-- [Team](#-team)
+
 
 ---
 
@@ -493,13 +493,3 @@ python -m src.chatbot.risk_summary
 
 ---
 
-## 👥 Team
-
-**CodeCure — Track C Submission**
-> CodeCure Biohackathon · Epidemic Spread Prediction · AI + Epidemiology
-
----
-
-<div align="center">
-  <sub>Built for CodeCure Biohackathon · Track C · Epidemic Spread Prediction</sub>
-</div>
